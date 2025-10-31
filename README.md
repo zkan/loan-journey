@@ -1,2 +1,1 @@
-# loan-journey
-Loan Journey
+# Loan Journey
